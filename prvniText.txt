@@ -1,2 +1,4 @@
 Text Prvniho Souboru
 8645614514655
+toto je prihlasovaci funkce ;-)
+uprava funkce
